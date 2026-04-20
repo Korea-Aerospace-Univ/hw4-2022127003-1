@@ -7,7 +7,6 @@ int main(void){
     number=0;
     max_num=0;
     max_str=0;
-    N=0;
     scanf("%d",&len);
     for(i=0; i < len; i++)   
         scanf("%c",&ch);
